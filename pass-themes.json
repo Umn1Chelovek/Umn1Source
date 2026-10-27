@@ -1,0 +1,42 @@
+[
+  {
+    "name": "Chicken Burger",
+    "description": "chicken burger",
+    "url": "passthm/ChickenBurgerPasscodeTheme.passthm",
+    "preview": "passthm_preview/ChickenBurger.PNG",
+    "contact": { "GitHub": "@Umn1Chelovek" },
+    "version": "1.1"
+  },
+  {
+    "name": "Jordans",
+    "description": "Jordans(1-10)",
+    "url": "passthm/JordanPasscodeTheme.passthm",
+    "preview": "passthm_preview/Jordan.PNG",
+    "contact": { "GitHub": "@Umn1Chelovek" },
+    "version": "1.0"
+  },
+  {
+    "name": "Я пидорас",
+    "description": "лев",
+    "url": "passthm/YaPidoras.passthm",
+    "preview": "passthm_preview/Pidoras.PNG",
+    "contact": { "GitHub": "@Umn1Chelovek" },
+    "version": "1.0"
+  },
+  {
+    "name": "Star Of David",
+    "description": "✡",
+    "url": "passthm/StarOfDavidPasscodeTheme.passthm",
+    "preview": "passthm_preview/StarDavid.PNG",
+    "contact": { "GitHub": "@Umn1Chelovek" },
+    "version": "1.5"
+  },
+  {
+    "name": "Minecraft Apple",
+    "description": "Apple from Minecraft",
+    "url": "passthm/MinecraftApple.passthm",
+    "preview": "passthm_preview/AppleMinecraft.PNG",
+    "contact": { "GitHub": "@Umn1Chelovek" },
+    "version": "1.0"
+  },
+]
