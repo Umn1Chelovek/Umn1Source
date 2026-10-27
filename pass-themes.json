@@ -39,4 +39,12 @@
     "contact": { "GitHub": "@Umn1Chelovek" },
     "version": "1.0"
   },
+  {
+    "name": "Гомель Симптом",
+    "description": "Колекция игрушек Семья Симптомов",
+    "url": "passthm/HomerSimpson.passthm",
+    "preview": "passthm_preview/IMG_4579.PNG",
+    "contact": { "GitHub": "@Umn1Chelovek" },
+    "version": "1.0"
+  },
 ]
